@@ -1,2 +1,1 @@
-# neural_networks
-neural_networks
+Мои материалы по нейронным сетям
