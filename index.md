@@ -2,10 +2,21 @@
 
 ## Интересные ссылки
 
-* [Учим нейросеть](https://playground.tensorflow.org) не отходя от браузера! 
+* [Учим нейросеть](https://playground.tensorflow.org) не отходя от браузера!
 
 
 ## Логи семинаров
+
+### Семинар 2
+
+* [Презентация](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/nn_slides_2.pdf)
+* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/1.%20Convolution.ipynb)  с примерами ядер и картинками.  [Дайнерис](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/denny.jpg), [туманный лес](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/forest.jpg), [цветок жизни](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/girl.png) [деталь](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/detal.PNG)
+* [Тетрадка с нашей первой CNN](http://nbviewer.jupyter.org/github/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/2.%20CNN_MNIST.ipynb)
+* [Шпаргалка по Keras](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/Keras_Cheat_Sheet_Python.pdf)
+
+* [Решение задания](http://nbviewer.jupyter.org/github/FUlyankin/neural_networks/blob/master/HSE_2018/sem_1/hw1_part1_gradient_solution.ipynb) на градиентный спуск
+* [Новое задание](http://nbviewer.jupyter.org/github/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/3.%20Keras_CNN.ipynb) на CIFAR10 и data augmentation
+
 
 ### Семинар 1
 
