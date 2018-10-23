@@ -7,6 +7,10 @@
 
 ## Логи семинаров
 
+### Семинар 3
+
+* [Хочу всё и сразу!](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_3.zip)
+
 ### Семинар 2
 
 * [Презентация](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_2/nn_slides_2.pdf)
