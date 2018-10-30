@@ -10,6 +10,7 @@
 ### Семинар 3
 
 * [Хочу всё и сразу!](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_3.zip)
+* Добавить ссылку на датасет с цвета
 
 ### Семинар 2
 
