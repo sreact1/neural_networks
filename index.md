@@ -12,7 +12,7 @@
 ### Семинар 4
 
 * [Хочу всё и сразу, кроме данных. Не хочу данные.](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_4.zip)
-* [Дамп википедии.](https://yadi.sk/d/Ddcl3nAiDO2CKQ) Весит три гига.
+* [Дамп википедии.](https://yadi.sk/d/Ddcl3nAiDO2CKQ)
 * [w2v, которую мы предобучили на википедии]( ).
 
 * [Слайды](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_4/nn_slides_4.pdf)
