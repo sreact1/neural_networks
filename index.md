@@ -7,10 +7,23 @@
 
 ## Логи семинаров
 
+> Обещаю в среду выложить все скрипты, которые я задолжал
+
+### Семинар 4
+
+* [Хочу всё и сразу, кроме данных. Не хочу данные.](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_4.zip)
+* [Дамп википедии.](https://yadi.sk/d/Ddcl3nAiDO2CKQ) Весит три гига.
+* [w2v, которую мы предобучили на википедии]( ).
+
+* [Слайды](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_4/nn_slides_4.pdf)
+* [Как научить компьютер читать](http://nbviewer.jupyter.org/github/FUlyankin/neural_networks/blob/master/HSE_2018/sem_4/4.1%20wikipedia_w2v.ipynb)
+* [Немного LSTM сеток](http://nbviewer.jupyter.org/github/FUlyankin/neural_networks/blob/master/HSE_2018/sem_4/4.2%20LSTM_sentment_w2v.ipynb)
+
+
 ### Семинар 3
 
 * [Хочу всё и сразу!](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_3.zip)
-* Добавить ссылку на датасет с цвета
+* Добавить ссылку на датасет с цветами
 
 ### Семинар 2
 
