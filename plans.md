@@ -50,6 +50,15 @@ LSTM:
 
 w2v:
 
+tensorflow:
+В репозитории много нормальных архитектур, спиздить!
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/convolutional_network_raw.ipynb
+
+Закодить всякие процедуры с параличами и тп от Воронцова
+
+GANы
+переделать статейку с хабра и цифрами
+найти что-то пиздатое для генераций вроде лиц
 
 
 Экономические задачи:
