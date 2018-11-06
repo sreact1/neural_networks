@@ -7,7 +7,11 @@
 
 ## Логи семинаров
 
-> Обещаю в среду выложить все скрипты, которые я задолжал
+### Семинар 5
+
+* [Хочу всё и сразу!](https://github.com/FUlyankin/neural_networks/blob/master/HSE_2018/sem_5.zip)
+* [Тетрадка про TensorFlow](http://nbviewer.jupyter.org/github/FUlyankin/neural_networks/blob/master/HSE_2018/sem_5/5.1%20introduction_tensorflow.ipynb)
+* [Тетрадка про GANы](http://nbviewer.jupyter.org/github/FUlyankin/neural_networks/blob/master/HSE_2018/sem_5/5.2%20GAN.ipynb)
 
 ### Семинар 4
 
